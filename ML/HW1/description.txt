@@ -1,1 +1,2 @@
-
+Contains codes for problem 1 to 4.
+There are 2 files for problem 1, one is based on the notebook, one is rewritten by me through a combination of sklearn and statsmodels.
